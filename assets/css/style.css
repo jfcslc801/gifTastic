@@ -1,0 +1,65 @@
+body background image
+body{
+    background-image: url("../images/disney-wallpaper.png")
+}
+
+body { 
+    background: url(../images/disney-wallpaper.png) no-repeat center center fixed; 
+   
+  }
+
+/* button styling */
+.searchButton {
+    background-color: #008CBA;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 5px;
+} 
+
+/* search button style */
+#addSearch{
+    background-color: #008CBA; color: white;
+    color: white;
+    width: 300px;
+    margin-top: 5px;
+    float: right;
+}
+
+/* search input style */
+#search-input{
+    width: 300px;
+    float: right;
+}
+
+/* rating style & position */
+p{
+position: absolute;
+margin: 0px 33px;
+/* float: left; */
+
+}
+
+/* image styling */
+.searchImage{
+    position: static;
+    float: left;
+    margin: 33px;
+    width: 200px;
+    height: 200px;
+
+
+}
+
+/* jumbotron opacity and styling */
+.jumbotron {
+    margin-bottom: 0px;
+    opacity: 0.1;
+    color: indigo;
+    background: #000;
+    text-align: center;
+ }
+
+
+
+ 
