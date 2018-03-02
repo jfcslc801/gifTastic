@@ -10,8 +10,7 @@ Play here: https://jfcslc801.github.io/gifTastic/
 
 ## Screenshots
 Press start to begin!
-![Screenshot](gifTastic.png)
-![Demo] (https://user-images.githubusercontent.com/32500591/36920036-9bd9ae9e-1e1c-11e8-8d09-c968e4743a2a.gif)
+![Screenshot](https://user-images.githubusercontent.com/32500591/36920036-9bd9ae9e-1e1c-11e8-8d09-c968e4743a2a.gif)
 
 ## Technologies used
 - Bootstrap
